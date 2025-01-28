@@ -1,6 +1,6 @@
-# ✏️ Projeto Teste API Java Springboot
+# ✏️ Serviços com Java Springboot
 
-Projeto 4º semestre
+Mini projeto 4º semestre
 
 ## 📑 Objetivo:
-Criar de serviços de API restful com Springboot para testes com Insomnia.
+Criar services, controllers e repositories para entidades através do Java com Springboot.
