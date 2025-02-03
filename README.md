@@ -1,6 +1,6 @@
-# ✏️ Serviços com Java Springboot
+# ✏️ API com Java Springboot
 
 Mini projeto 4º semestre
 
 ## 📑 Objetivo:
-Criar services, controllers e repositories para entidades através do Java com Springboot.
+Configurar services, controllers e repositories para entidades para criação de API Java com Springboot.
